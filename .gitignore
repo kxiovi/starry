@@ -8,3 +8,5 @@ Makefiles
 
 CMakeCache.txt
 cmake_install.cmake
+
+.vscode
