@@ -1,0 +1,10 @@
+{
+    "topology": [3136, 22, 33, 86],
+    "learningRate":0.05, 
+    "momentum": 1.0, 
+    "bias": 1.0,
+    "epoch": 3,
+    "trainingData": "/home/vidhipatel/starry/data/img.csv", 
+    "labelData": "/home/vidhipatel/starry/data/IDlabels.csv", 
+    "weights": "/home/vidhipatel/starry/weights/weights.json"
+}

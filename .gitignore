@@ -1,0 +1,10 @@
+CMakeFiles/
+
+weights/*.json
+
+starry
+
+Makefiles
+
+CMakeCache.txt
+cmake_install.cmake

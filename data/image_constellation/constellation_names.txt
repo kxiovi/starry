@@ -1,0 +1,86 @@
+1 vela
+2 musca
+3 Grus
+4 Canis minor
+5 cancer 
+6 Leo
+7 Leo minor
+8 ursa minor
+9 lyra
+10 dorado
+11 Scorpius
+12 Cepheus
+13 Virgo
+14 Ursa major
+15 Perceus
+16 Canis major
+17 Lepus
+18 Columba
+19 Aquarius
+20 Capricornus
+21 Gemini
+22 Pictor 
+23 Puppis
+24 Mensa 
+25 Reticulum
+26 Volans
+27 Bootes 
+28 Lacerta
+29 fornax
+30 Hydrus
+31 Octans
+32 Pavo 
+33 lupus
+34 Orion
+35 Cetus
+36 sextan
+37 Aquila
+38 Microscopium
+39 Indus
+40 Ara
+41 Corona Australis
+42 Libra
+43 Sagittarius
+44 Aries
+45 Corona Borealis
+46 Sculptor
+47 Phoenix
+48 Horologium
+49 Caelum
+50 Tucana
+51 Chameleon
+52 Crux
+53 Monoceros
+54 Taurus
+55 Crater
+56 Corvus
+57 Circinus
+58 Triangulum
+59 Cassiopeia
+60 Cygnus
+61 Camelopardalis
+62 Coma Berenices
+63 Pisces Austrinus
+64 Hercules
+65 Norma
+66 Equuleus
+67 Delphinus
+68 Sagitta
+69 Vulpecula
+70 Serpens Caput
+71 Lynx
+72 Antila
+73 Pyxis
+74 Auriga
+75 Pisces
+76 Draco
+77 Scutum
+78 Andromeda
+79 Pegasus
+80 Carina
+81 Canis Venatici
+82 Serpens Cauda
+83 Apus
+84 Telescopium
+85 Triangulum Australe
+86 Centaurus
